@@ -9,7 +9,6 @@ Window {
 
     WebEngineProfile {
         id: web_engine_profile
-        httpUserAgent: "Mozilla/5.0 (Linux; U; Android 9.0; PocketBook 626 Build/5.20.1000; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3239.111 Mobile Safari/537.36"
     }
 
     WebEngineView {
