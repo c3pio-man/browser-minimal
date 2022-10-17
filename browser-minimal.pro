@@ -1,3 +1,4 @@
+TARGET = browser-minimal.app
 QT += quick webengine
 CONFIG += c++11 qtquickcompiler
 
